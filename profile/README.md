@@ -8,7 +8,7 @@
 
 Real-time collaborative editor · Translation memory · Machine translation · Git sync · CLI
 
-[**platform.ownlate.com**](https://platform.ownlate.com) · [Docs](https://docs.ownlate.com) · [Website](https://ownlate.com)
+[Platform](https://platform.ownlate.com) · [Docs](https://docs.ownlate.com) · [Website](https://ownlate.com)
 
 </div>
 
