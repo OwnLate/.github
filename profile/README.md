@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="icon.png" alt="Ownlate" width="72" height="72" />
+<img src="../assets/icon.png" alt="Ownlate" width="72" height="72" />
 
 # Ownlate
 
